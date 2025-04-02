@@ -49,19 +49,10 @@ This Power BI project provides an interactive visualization of **Population** an
 
 ## 📁 Repository Structure
 
-📦 vietnam-gdp-population-dashboard/
-├── 📁 assets/
-│ 
-└── dashboard-preview.png
-    ├── 📄 README.md
-    └── 📄 Population Dashboard.pbix
-    └── 📄 populationbi.jpg
-
----
-
-## 📷 Dashboard Preview
-
-![Preview](./assets/populationbi.jpg)
+📦 Population-PowerBI-Dashboard/
+├── 📄 README.md
+└── 📄 Population Dashboard.pbix
+└── 📄 populationbi.jpg
 
 ---
 
